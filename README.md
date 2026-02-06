@@ -6,6 +6,9 @@ Bohdan Pavlunyshyn
 Yarema Kertytsky
 
 
+# Data Atrributions:
+
+
 ## Project Setup
 
 ### Set up Virtual Environment
