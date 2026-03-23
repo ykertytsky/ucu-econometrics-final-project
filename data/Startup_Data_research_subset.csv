@@ -1,0 +1,473 @@
+Dependent-Company Status,Number of Co-founders,B2C or B2B venture?,Time to 1st investment (in months),Number of of advisors,Team size Senior leadership,Employees count MoM change,Internet Activity Score,Last round of funding received (in milionUSD),Number of Investors in Angel and or VC,Number of of repeat investors,Presence of a top angel or venture fund in previous round of investment,Average Years of experience for founder and co founder,Have been part of successful startups in the past?,Degree from a Tier 1 or Tier 2 university?,Linear or Non-linear business model,"Capital intensive business e.g. e-commerce, Engineering products and operations can also cause a business to be capital intensive",year of founding,Industry trend in investing,Disruptiveness of technology
+Success,1,B2C,No Info,2,2,0.0,-1.0,0.45,0,4,Yes,High,No,Tier_1,Linear,Yes,No Info,2.0,Low
+Success,2,B2C,10,0,4,,125.0,5,0,0,No,High,Yes,Tier_1,Non-Linear,No,2011,3.0,Medium
+Success,3,B2B,2,0,7,0.0,455.0,2.35,0,0,No,Medium,No,Tier_2,Non-Linear,No,2011,3.0,Medium
+Success,2,B2C,1,0,4,10.0,-99.0,10.25,0,0,Yes,Medium,Yes,Tier_2,Non-Linear,No,2009,4.0,Medium
+Success,1,B2B,13,1,8,3.0,496.0,5.5,0,0,No,High,No,,Non-Linear,Yes,2010,3.0,Medium
+Success,4,B2B,12,0,4,8.0,106.0,1,0,2,No,High,No,,Non-Linear,No,2010,4.0,High
+Success,2,B2B,11,9,2,0.0,39.0,2,0,4,No,High,Yes,,Non-Linear,No,2011,3.0,Medium
+Success,3,B2B,20,4,4,-12.0,139.0,6.7,0,0,No,High,Yes,Tier_1,Non-Linear,No,2010,3.0,Medium
+Success,2,B2B,18,0,2,45.0,306.0,11,0,0,No,High,Yes,Tier_1,Non-Linear,No,2011,3.0,Medium
+Success,3,B2B,5,4,3,,53.0,3,0,0,No,High,Yes,Tier_1,Non-Linear,No,2013,1.0,Low
+Success,2,B2B,24,1,8,0.0,762.0,16,0,0,No,High,Yes,,Non-Linear,No,2011,4.0,Medium
+Success,0,B2B,18,1,7,3.0,140.0,6.3,1,1,No,High,Yes,Tier_1,Non-Linear,No,2010,3.0,Medium
+Success,0,B2B,12,1,8,7.0,115.0,11.5,0,1,No,High,Yes,,Non-Linear,Yes,2010,3.0,Medium
+Success,3,B2B,14,0,6,0.0,277.0,6.5,0,0,No,Medium,No,Tier_1,Non-Linear,No,2008,3.0,Medium
+Success,2,B2B,48,0,5,0.0,242.0,2.8,2,0,No,High,No,Tier_1,Non-Linear,No,2010,3.0,Medium
+Success,2,B2B,38,0,8,8.0,533.0,41,0,0,No,High,No,Tier_1,Non-Linear,Yes,2008,3.0,Medium
+Success,1,B2B,3,0,7,0.0,-81.0,3.499999,3,2,No,High,No,Tier_1,Non-Linear,Yes,2010,3.0,Medium
+Success,3,B2B,30,0,8,-4.0,471.0,10,0,2,No,High,No,Tier_2,Non-Linear,No,2009,4.0,High
+Success,0,B2B,35,0,8,2.0,47.0,0.75,3,0,No,High,Yes,Tier_1,Non-Linear,Yes,2002,4.0,High
+Success,2,B2B,20,0,4,0.0,60.0,0.749999,6,0,No,High,Yes,Tier_1,Non-Linear,No Info,2010,4.0,High
+Success,2,B2B,15,0,5,0.0,70.0,5,1,0,No,High,No,,Non-Linear,No,2010,4.0,Medium
+Success,2,B2B,96,0,4,,242.0,1.5,0,0,No,High,Yes,Tier_1,Non-Linear,No,2005,4.0,High
+Success,3,B2B,10,8,3,3.0,245.0,15,0,2,Yes,High,Yes,Tier_2,Non-Linear,No,2012,3.0,Medium
+Success,2,B2B,5,6,5,,,5.2,0,4,Yes,High,Yes,Tier_1,Non-Linear,No,2009,3.0,Medium
+Success,2,B2C,14,0,2,0.0,373.0,1.7,0,0,No,High,Yes,,Linear,Yes,2012,3.0,High
+Success,2,B2B,1,1,3,0.0,61.0,0.25,0,0,No,High,Yes,,Non-Linear,No,2011,2.0,Low
+Success,3,B2B,48,0,3,0.0,155.0,1.4,0,0,No,Medium,No,Both,Non-Linear,No,2009,4.0,High
+Success,1,B2C,4,0,1,,43.0,1.1,0,0,No,Low,No,Tier_2,Non-Linear,No,2013,3.0,Medium
+Success,2,B2B,36,8,10,,11.0,15,0,2,Yes,High,No,,Linear,Yes,2007,4.0,High
+Success,2,B2C,6,0,2,0.0,281.0,0.2,0,0,No,Medium,No,Both,Non-Linear,No,2012,2.0,Low
+Success,4,B2B,1,0,4,0.0,421.0,0.6,0,0,No,Low,No,Tier_1,Linear,Yes,2012,4.0,High
+Success,2,B2B,8,0,7,-7.0,-91.0,unknown amount,1,3,Yes,High,No,Tier_2,Linear,Yes,2008,4.0,High
+Success,3,B2B,1,2,5,6.0,983.0,20,3,3,Yes,Medium,No,Tier_2,Non-Linear,No,2010,4.0,High
+Success,3,B2B,14,0,4,13.0,68.0,2,No Info,0,No,Medium,No,,Non-Linear,No,2011,2.0,Low
+Success,1,B2B,1,0,6,,,1,5,1,No,High,Yes,,Non-Linear,No,2010,2.0,Low
+Success,2,B2B,7,6,4,0.0,75.0,2.87089,3,0,No,High,No,,Non-Linear,No,2012,4.0,Medium
+Success,4,B2B,1,4,4,13.0,140.0,5.2,0,2,Yes,High,No,Tier_2,Linear,Yes,2012,4.0,Medium
+Success,2,B2B,No Info,3,2,20.0,46.0,0.07,0,1,No Info,Medium,Yes,,Non-Linear,No,2012,4.0,High
+Success,2,B2B,4,0,4,0.0,33.0,1,0,4,No Info,High,No,,Non-Linear,No,2010,4.0,High
+Success,5,B2B,12,0,5,0.0,56.0,0.45,0,0,No,Medium,No,,Non-Linear,No,2010,3.0,High
+Success,2,B2C,18,1,2,0.0,89.0,unknown amount,1,0,No,High,No,Tier_2,Non-Linear,Yes,2012,2.0,High
+Success,2,B2B,10,9,3,0.0,69.0,unknown amount,0,0,Yes,High,Yes,Tier_1,Linear,No,2009,2.0,High
+Success,0,B2C,10,8,3,-3.0,374.0,0.06,0,0,No,High,No,Tier_1,Linear,No,2011,2.0,High
+Success,3,B2B,36,0,6,0.0,40.0,2.517424,0,1,No Info,High,No,Tier_1,Non-Linear,No,2008,4.0,High
+Success,2,B2B,6,3,4,,,14,0,3,Yes,High,Yes,Tier_1,Non-Linear,No,2012,2.0,High
+Success,4,B2B,15,10,6,,-24.0,1.75,0,0,No Info,High,Yes,Tier_1,Non-Linear,No,2010,4.0,High
+Success,2,B2B,16,2,2,0.0,295.0,3,1,0,No Info,High,No,,Non-Linear,No,2011,4.0,High
+Success,2,B2C,72,13,14,0.0,111.0,30,No Info,0,No Info,High,Yes,Tier_1,Non-Linear,No,2003,4.0,High
+Success,2,B2B,156,0,9,3.0,160.0,25,No Info,0,No Info,High,No,Tier_1,Non-Linear,No,2000,3.0,Medium
+Failed,2,B2C,12,0,2,,0.0,11,0,3,Yes,High,Yes,Both,Non-Linear,No,No Info,4.0,Low
+Success,2,B2B,13,1,3,0.0,805.0,4,3,2,Yes,High,Yes,Tier_1,Non-Linear,No,2011,4.0,High
+Success,2,B2B,1,2,4,0.0,-129.0,13,0,3,Yes,High,Yes,Tier_1,Non-Linear,No,2009,4.0,High
+Success,3,B2B,20,5,7,,416.0,1.070901,0,4,Yes,High,No,,Non-Linear,No,2009,3.0,Medium
+Success,4,B2B,12,3,8,,,15,2,5,Yes,High,No,Tier_1,Non-Linear,No,2007,4.0,High
+Success,1,B2B,8,3,4,23.0,888.0,6.5,0,2,Yes,Medium,No,,Linear,Yes,2012,3.0,High
+Success,2,B2B,11,2,3,,524.0,5,0,1,Yes,High,No,,Linear,Yes,2011,3.0,Medium
+Success,2,B2B,24,2,3,,16.0,unknown amount,1,0,No,High,No,,Non-Linear,No,2008,3.0,Medium
+Success,2,B2B,7,2,4,0.0,272.0,1,0,0,No,High,Yes,Tier_1,Linear,Yes,2012,3.0,High
+Success,2,B2B,16,0,2,,,2.5,1,0,No,High,Yes,Tier_1,Non-Linear,No,2012,4.0,High
+Success,2,B2B,1,0,2,0.0,124.0,2,1,0,No,High,No,Tier_2,Non-Linear,No,2012,3.0,Medium
+Success,2,B2B,14,0,2,-4.0,409.0,3.9,0,2,No,High,No,Tier_1,Non-Linear,Yes,2009,3.0,Medium
+Success,2,B2B,10,1,4,,51.0,4.1,0,0,No,High,Yes,Tier_1,Linear,No,2012,3.0,Medium
+Success,2,B2C,10,1,2,6.0,388.0,0.75,1,0,No,Medium,No,Tier_1,Non-Linear,No,2012,3.0,High
+Success,2,B2C,4,0,2,0.0,315.0,unknown amount,0,0,No,Medium,Yes,Tier_1,Linear,No,2012,3.0,Medium
+Success,2,B2C,1,0,2,,,unknown amount,0,0,No,Medium,No,Tier_2,Linear,Yes,2012,3.0,Medium
+Success,2,B2B,75,0,1,,,15,0,0,No,High,Yes,Tier_1,Linear,Yes,2007,3.0,Medium
+Success,4,B2B,36,1,5,2.0,157.0,unknown amount,0,0,No,High,Yes,Tier_2,Non-Linear,No,2009,3.0,High
+Success,2,B2B,20,0,2,,133.0,unknown amount,4,0,No,Medium,Yes,Tier_1,Non-Linear,No,2012,3.0,Medium
+Success,2,B2B,2,0,2,,408.0,0.062,0,0,No,Medium,Yes,Tier_1,Non-Linear,No,2013,3.0,Medium
+Success,4,B2B,32,0,4,,239.0,0.01,0,0,No,High,Yes,Tier_2,Non-Linear,No,2011,3.0,Medium
+Success,3,B2C,1,0,5,0.0,43.0,0.425,6,0,No,High,Yes,,Non-Linear,No,2009,3.0,Medium
+Success,0,B2B,4,0,3,,8.0,0.125,0,0,No,High,No,Tier_2,Non-Linear,No,2011,3.0,Medium
+Success,3,B2B,12,0,3,0.0,217.0,0.03,1,0,No,Medium,No,Tier_2,Non-Linear,No,2012,4.0,High
+Success,2,B2B,36,0,3,,64.0,0.025,0,0,No,Medium,No,,Non-Linear,No,2010,4.0,High
+Success,2,B2B,5,0,3,0.0,181.0,0.135,0,0,No,High,Yes,,Non-Linear,No,2013,4.0,High
+Success,2,B2C,2,0,5,17.0,-34.0,0.11,1,0,No,Medium,Yes,,Non-Linear,No,2012,4.0,High
+Success,2,B2B,7,0,2,,14.0,unknown amount,0,1,No Info,Medium,Yes,,Non-Linear,Yes,2012,3.0,Low
+Success,4,B2C,1,0,3,0.0,398.0,No Info,0,0,No Info,Medium,No,,Non-Linear,No,2012,3.0,Medium
+Success,3,B2B,12,0,3,3.0,372.0,1.3,0,0,No Info,Medium,Yes,Tier_1,Linear,No,2010,3.0,High
+Success,3,B2B,1,1,2,,-8.0,No Info,0,0,No Info,High,No,Tier_1,Linear,No,2010,3.0,High
+Success,2,B2B,45,0,3,29.0,263.0,1.9,0,0,No,High,Yes,Tier_1,Non-Linear,No,2010,4.0,Medium
+Success,2,B2C,1,0,7,,1.0,No Info,0,0,No,High,Yes,Both,Linear,No,2012,4.0,High
+Success,5,B2B,1,2,5,0.0,42.0,0.8,1,0,No Info,High,No,,Linear,No,2011,4.0,High
+Success,2,B2B,35,0,2,-13.0,138.0,1,0,0,No,Medium,Yes,,Linear,No,2011,2.0,Low
+Success,4,B2B,20,0,2,6.0,401.0,1.8,3,0,No,High,No,,Non-Linear,No,2011,2.0,High
+Success,2,B2C,12,0,1,,-77.0,0.05,0,0,No,High,No,Tier_1,Non-Linear,Yes,2011,1.0,Low
+Success,3,B2B,1,1,3,0.0,-103.0,0.05,0,0,No,High,Yes,Tier_2,Non-Linear,No,2010,2.0,Medium
+Success,2,B2B,1,3,5,5.0,-2.0,3,0,0,No,High,Yes,Tier_1,Linear,No,2009,3.0,Medium
+Success,2,B2C,1,0,2,,261.0,0.2,0,1,No Info,High,No,Tier_1,Non-Linear,No,2011,2.0,Low
+Success,2,B2B,1,0,4,11.0,763.0,1.5,0,0,No Info,High,No,Tier_1,Linear,No,2013,1.0,Medium
+Success,0,B2C,3,0,6,,-13.0,1.7,0,0,No,High,Yes,Tier_1,Non-Linear,No,2010,3.0,Medium
+Success,0,B2B,18,0,12,4.0,293.0,1.3,0,0,No,Medium,Yes,Tier_1,Linear,No,2011,2.0,Low
+Success,3,B2B,45,2,8,-4.0,126.0,1.1,4,0,No,High,Yes,Tier_1,Non-Linear,No,2010,3.0,Low
+Success,2,B2B,70,2,12,,9.0,unknown amount,2,0,No,Low,Yes,Tier_1,Linear,No,2007,3.0,Low
+Success,0,B2B,65,0,2,0.0,123.0,7.5,2,0,No Info,High,Yes,Tier_2,Non-Linear,No,2002,3.0,Low
+Success,2,B2B,8,0,3,0.0,53.0,0.05,0,0,No,Low,No,Tier_2,Non-Linear,Yes,2011,2.0,Low
+Success,3,B2B,12,1,3,,504.0,0.5,0,0,No,Low,No,,Non-Linear,No,2012,2.0,Low
+Success,4,B2C,12,0,4,,661.0,2.5,0,0,No,Medium,No,Tier_1,Linear,No,2012,3.0,Low
+Success,2,B2C,24,0,2,,,0.55,0,0,No,High,Yes,,Non-Linear,No,2012,2.0,Low
+Success,2,B2C,17,0,4,0.0,220.0,unknown amount,0,0,No,Medium,Yes,,Non-Linear,No,2012,3.0,Low
+Success,2,B2C,16,0,4,,,1,3,2,No,High,No,Tier_1,Linear,Yes,2012,4.0,High
+Success,3,B2C,1,0,3,0.0,-2.0,0.125,1,0,No,Low,Yes,,Non-Linear,No,2012,3.0,Medium
+Success,2,B2B,47,0,4,7.0,-34.0,5,1,0,No,High,Yes,Tier_2,Linear,Yes,2010,4.0,High
+Success,1,B2B,1,0,1,,-26.0,0.05,0,0,No Info,Low,Yes,Tier_1,Non-Linear,No,2009,3.0,Medium
+Success,0,B2B,4,1,7,8.0,265.0,0.5,1,0,No Info,High,Yes,Tier_1,Non-Linear,No,2009,2.0,Low
+Success,1,B2B,6,0,2,,-2.0,0.05,0,0,No Info,Medium,No,,Linear,No,2012,3.0,Medium
+Success,3,B2B,40,2,5,9.0,98.0,0.1,0,1,No,Medium,Yes,,Non-Linear,No,2008,3.0,Medium
+Success,2,B2B,6,0,2,9.0,338.0,0.175,0,2,Yes,High,Yes,Tier_2,Linear,No,2011,2.0,Low
+Success,1,B2B,12,0,3,,-46.0,0.81,0,0,No,High,Yes,,Non-Linear,No,2010,5.0,High
+Success,0,B2B,2,0,3,,16.0,unknown amount,0,0,No,High,No,Tier_1,Non-Linear,No,2010,3.0,Medium
+Success,2,B2B,4,1,5,0.0,361.0,0.5,0,0,No,Medium,No,Tier_1,Non-Linear,No,2010,3.0,Medium
+Success,3,B2B,6,4,4,,98.0,unknown amount,0,0,No,High,Yes,Tier_2,Non-Linear,No,2012,4.0,High
+Success,0,B2B,12,0,3,,,1,0,0,No,High,Yes,Tier_2,Non-Linear,No,2010,3.0,Medium
+Success,0,B2B,10,0,4,5.0,161.0,1.1,0,0,No,Medium,No,Tier_1,Non-Linear,No,2012,3.0,Medium
+Success,1,B2B,1,2,4,0.0,230.0,0.65,0,0,No,Medium,No,Tier_1,Non-Linear,Yes,2009,3.0,Medium
+Success,0,B2B,5,0,3,,,0.375,0,0,No,Medium,Yes,,Non-Linear,No,2013,0.0,Low
+Success,0,B2B,24,4,4,0.0,528.0,0.75,0,0,No,High,Yes,,Non-Linear,No,2011,4.0,High
+Success,3,B2B,45,0,4,-7.0,512.0,17,0,0,No,High,No,Tier_1,Non-Linear,Yes,2009,2.0,Low
+Success,2,B2B,70,7,5,7.0,78.0,10,0,3,No,High,No,Tier_2,Non-Linear,Yes,2005,3.0,Medium
+Success,2,B2C,12,1,8,0.0,150.0,3.5,0,0,No,High,Yes,Tier_2,Non-Linear,No,2008,3.0,Medium
+Success,0,B2C,15,0,7,0.0,129.0,1.7,0,0,No,Medium,No,Tier_2,Non-Linear,No,2012,3.0,Medium
+Success,1,B2B,6,0,4,0.0,-4.0,7,0,0,No,High,Yes,,Non-Linear,Yes,2010,3.0,Medium
+Success,0,B2B,1,4,2,0.0,29.0,unknown amount,0,0,No,High,Yes,Tier_1,Non-Linear,No,2011,3.0,Medium
+Success,3,B2B,12,7,7,3.0,-68.0,11,0,1,No,High,Yes,Tier_1,Non-Linear,Yes,2010,4.0,Medium
+Success,2,B2B,12,0,4,9.0,266.0,35,0,1,No,High,No,Tier_1,Non-Linear,Yes,2011,3.0,Medium
+Success,5,B2B,12,0,6,13.0,70.0,0.05,0,0,No,High,Yes,,Non-Linear,No,2011,3.0,Medium
+Success,1,B2B,12,7,9,-1.0,113.0,9.4,0,2,No,Medium,Yes,,Non-Linear,Yes,2006,4.0,Medium
+Success,2,B2B,12,0,3,22.0,147.0,1.7,0,0,No,High,Yes,Tier_1,Non-Linear,No,2011,3.0,Medium
+Success,1,B2B,6,0,5,,62.0,unknown amount,0,0,No,High,No,,Non-Linear,No,No Info,4.0,High
+Success,0,B2B,120,0,10,6.0,150.0,6.1,0,0,No,High,No,Tier_1,Non-Linear,No,1999,3.0,Medium
+Success,0,B2C,12,0,6,11.0,429.0,16,6,3,No,Medium,Yes,,Non-Linear,No,2008,4.0,Medium
+Success,2,B2B,20,0,12,-6.0,-385.0,13,0,1,No,High,Yes,Tier_1,Non-Linear,No,2006,3.0,Medium
+Success,3,B2B,1,3,4,,96.0,unknown amount,1,0,No,Medium,Yes,,Non-Linear,No,2012,4.0,High
+Success,1,B2B,1,0,8,5.0,81.0,2,2,0,No,High,Yes,Tier_2,Non-Linear,No,2010,3.0,Medium
+Success,1,B2B,8,0,1,0.0,627.0,unknown amount,1,0,No,Medium,No,Tier_2,Non-Linear,No,2012,3.0,Medium
+Failed,3,B2B,48,1,5,9.0,0.0,62.5,0,0,Yes,High,Yes,Tier_1,Non-Linear,No,2004,3.0,Medium
+Failed,0,B2B,60,0,8,0.0,0.0,15,0,0,Yes,High,Yes,Tier_1,Linear,No,2000,2.0,Medium
+Failed,1,B2C,12,0,6,-2.0,-445.0,5,0,0,Yes,High,Yes,Tier_2,Non-Linear,No,2004,3.0,Medium
+Failed,3,B2C,24,0,5,0.0,-91.0,25,0,0,Yes,High,No,Tier_1,Non-Linear,Yes,2005,2.0,Low
+Failed,0,B2B,10,0,5,,-69.0,5,0,1,Yes,High,Yes,,Non-Linear,Yes,2009,3.0,Medium
+Failed,1,B2C,24,0,5,,-46.0,2.7,1,0,Yes,High,Yes,Tier_1,No Info,No Info,2005,2.0,Low
+Failed,0,B2C,No Info,0,5,0.0,14.0,No Info,0,0,No Info,High,Yes,,No Info,No Info,2008,3.0,Medium
+Failed,1,B2C,No Info,0,1,,16.0,No Info,0,0,No Info,High,No,,Linear,Yes,2012,2.0,Low
+Failed,3,B2C,3,0,3,-100.0,107.0,1,5,5,Yes,High,No,Tier_1,No Info,No Info,2011,3.0,Medium
+Failed,3,B2C,14,0,5,-5.0,-77.0,0.8,0,0,Yes,Medium,No,Tier_1,Non-Linear,Yes,2010,2.0,Low
+Failed,0,B2C,12,0,1,0.0,-535.0,2.3,2,0,No Info,High,No,,Non-Linear,No,2008,2.0,Low
+Failed,0,B2C,24,0,3,0.0,-8.0,1.5,0,1,No Info,High,No,,No Info,No Info,2007,2.0,Low
+Failed,1,B2C,1,0,1,,,0.287,1,0,No,High,Yes,,Non-Linear,No,2006,2.0,Low
+Success,2,B2C,2,0,6,,,11.5,0,1,Yes,Medium,No,Tier_1,Non-Linear,No,2009,2.0,Low
+Failed,1,B2C,26,0,1,-100.0,8.0,1,0,0,Yes,Medium,No,Tier_1,Non-Linear,No,2006,3.0,Medium
+Failed,3,B2C,8,2,6,,-9.0,10,0,0,No,High,Yes,Tier_1,Non-Linear,No,2007,2.0,Low
+Success,3,B2C,40,2,4,-4.0,50.0,10,0,1,Yes,High,Yes,Tier_2,Non-Linear,No,2005,2.0,Low
+Failed,2,B2C,No Info,0,2,,,unknown amount,0,1,No,High,No,Tier_1,Non-Linear,No,No Info,3.0,Medium
+Failed,2,B2B,1,0,2,,,unknown amount,0,0,No,Medium,Yes,Tier_2,Non-Linear,No,2010,3.0,High
+Success,2,B2B,20,0,3,20.0,205.0,8,0,0,Yes,High,Yes,Tier_1,Non-Linear,No,2012,4.0,High
+Success,3,B2B,2,6,11,,120.0,43,1,4,Yes,High,Yes,,Linear,Yes,2007,4.0,High
+Success,2,B2B,12,0,6,4.0,-69.0,20,7,6,Yes,High,Yes,,Linear,Yes,2007,3.0,Medium
+Success,2,B2B,12,0,3,,,4.5,0,0,Yes,High,No,Tier_1,Non-Linear,No,2013,3.0,Medium
+Failed,2,B2B,14,1,2,,17.0,4.3,0,0,No,Medium,No,Tier_1,Non-Linear,No,2007,2.0,Low
+Failed,2,B2C,No Info,0,3,,,0.11,1,0,No,Medium,Yes,Tier_2,Linear,Yes,2007,4.0,High
+Success,1,B2B,72,6,5,,1535.0,5,0,0,No,Medium,Yes,,Non-Linear,No,2007,4.0,High
+Success,4,B2B,1,1,4,,120.0,3.7,7,4,Yes,Medium,No,Both,Non-Linear,No,2013,4.0,Medium
+Success,2,B2C,12,3,3,0.0,355.0,7.8,0,3,Yes,High,No,,Linear,Yes,2007,3.0,Medium
+Success,2,B2B,30,0,2,,,1,0,0,No,Medium,Yes,,Non-Linear,No,2009,3.0,Medium
+Success,3,B2B,1,0,4,0.0,294.0,1,1,0,No,High,No,,Linear,Yes,2013,3.0,Medium
+Success,2,B2C,6,0,6,4.0,221.0,6,0,3,No,Medium,No,Tier_1,Non-Linear,No,2011,3.0,High
+Success,2,B2B,1,4,7,13.0,334.0,18,0,1,Yes,High,No,,Non-Linear,No,2012,3.0,Low
+Success,1,B2B,36,4,5,,84.0,1.5,0,0,No,High,Yes,,Non-Linear,No,2007,2.0,Medium
+Success,1,B2B,20,5,7,0.0,237.0,4.499999,3,3,Yes,High,No,,Linear,Yes,2009,3.0,Medium
+Failed,2,B2C,1,1,3,,,No Info,0,0,No,High,No,Tier_1,Non-Linear,No,2007,3.0,Low
+Success,2,B2B,37,0,2,0.0,616.0,1,0,0,No,Medium,No,Tier_1,Non-Linear,No,2010,2.0,Low
+Failed,3,B2C,No Info,1,4,,3.0,4,0,0,No,High,No,,Non-Linear,No,No Info,2.0,Low
+Success,3,B2B,10,4,6,9.0,137.0,15,0,1,Yes,High,Yes,,Linear,Yes,2012,3.0,High
+Success,1,B2B,108,6,7,,83.0,6,0,0,No,High,Yes,Tier_2,Linear,Yes,2002,3.0,Medium
+Success,2,B2B,26,0,3,20.0,191.0,0.77,9,0,No,High,Yes,Tier_1,Non-Linear,No,2010,4.0,High
+Success,1,B2C,No Info,1,2,0.0,23.0,0.02,0,0,No Info,Medium,Yes,Tier_1,Linear,No,2012,3.0,Medium
+Success,2,B2B,12,2,1,7.0,56.0,4.25,5,2,Yes,Medium,No,Both,Non-Linear,No,2009,3.0,Low
+Success,3,B2B,4,3,8,2.0,246.0,30.6,2,2,No,Medium,No,Both,Non-Linear,No,2008,4.0,High
+Success,2,B2B,36,2,3,8.0,299.0,24,0,2,Yes,High,No,,Non-Linear,No,2011,4.0,Medium
+Success,2,B2C,12,5,2,0.0,-100.0,0.2,0,10,No,High,Yes,,Non-Linear,No,2010,2.0,Low
+Success,2,B2C,12,6,4,,143.0,1.017026,0,0,No,High,No,Tier_1,Non-Linear,No,2012,2.0,High
+Success,3,B2B,12,0,3,0.0,-69.0,No Info,0,0,No,Medium,No,Tier_1,Non-Linear,No,2010,2.0,Medium
+Success,2,B2B,1,0,2,0.0,398.0,No Info,0,0,Yes,Medium,No,Tier_1,Non-Linear,No,2011,3.0,Medium
+Success,3,B2C,1,0,3,,193.0,No Info,0,0,No,Medium,No,,Non-Linear,No,2012,1.0,Low
+Success,2,B2B,6,4,3,,123.0,0.4,0,5,Yes,Low,Yes,No Info,Non-Linear,No,2012,4.0,High
+Success,3,B2C,28,9,9,,0.0,0.535,0,0,No,High,Yes,,Non-Linear,No,2010,2.0,Medium
+Success,0,B2C,12,1,4,,53.0,0.6,0,0,No,Medium,No,Both,Linear,No,2012,5.0,Medium
+Success,2,B2C,No Info,0,2,13.0,143.0,No Info,0,1,Yes,Medium,No,,Non-Linear,Yes,2011,3.0,High
+Success,2,B2B,16,1,4,0.0,268.0,4.5,0,0,No,Medium,No,Tier_1,Linear,No,2011,4.0,High
+Success,2,B2B,12,2,5,17.0,28.0,16,0,2,Yes,High,Yes,Tier_2,Non-Linear,No,2011,3.0,High
+Success,1,B2B,10,4,6,-6.0,149.0,4,0,1,Yes,High,Yes,Tier_1,Non-Linear,No,2007,3.0,High
+Success,2,B2B,8,0,2,15.0,448.0,1.7,0,1,Yes,High,No,,Non-Linear,No,2011,3.0,Low
+Success,2,B2B,10,8,2,0.0,0.0,15,0,1,Yes,High,Yes,Tier_1,Non-Linear,Yes,2012,3.0,Medium
+Success,2,B2B,13,6,4,3.0,162.0,21,3,3,Yes,High,Yes,Tier_2,Non-Linear,No,2011,1.0,Low
+Success,2,B2B,5,6,6,5.0,286.0,4.2,0,0,No,Medium,No,,Non-Linear,No,2013,4.0,Low
+Success,1,B2B,8,11,6,12.0,1.0,7,0,2,No,High,No,,Non-Linear,No,2012,2.0,High
+Success,2,B2B,13,2,3,4.0,270.0,10,3,3,Yes,High,No,Both,Non-Linear,No,2011,2.0,Medium
+Success,2,B2B,5,2,2,7.0,299.0,3,0,3,Yes,High,No,Both,Non-Linear,No,2012,4.0,Medium
+Success,2,B2B,20,1,2,0.0,291.0,3.15,0,1,No,High,No,,Non-Linear,No,2011,2.0,Medium
+Success,2,B2B,12,0,6,0.0,456.0,19,0,3,Yes,High,No,,Non-Linear,No,2009,3.0,Low
+Success,2,B2B,5,1,10,11.0,331.0,45,0,6,No,High,Yes,Both,Non-Linear,No,2010,4.0,High
+Success,2,B2B,15,0,2,13.0,118.0,8,0,0,Yes,Medium,No,,Non-Linear,Yes,2012,4.0,Medium
+Success,2,B2B,19,6,6,5.0,258.0,2.55,0,0,No,High,No,Tier_2,Non-Linear,No,2011,3.0,Low
+Success,0,B2B,1,0,5,2.0,131.0,2.8,0,0,No,High,Yes,Tier_1,Linear,No,2010,2.0,Low
+Success,2,B2B,30,3,5,4.0,222.0,No Info,0,0,Yes,High,No,Tier_2,Linear,No,2009,2.0,Medium
+Success,2,B2B,9,3,4,8.0,56.0,8.7,0,2,Yes,High,Yes,Tier_2,Non-Linear,No,2009,2.0,Medium
+Success,2,B2C,18,4,3,0.0,281.0,5,0,1,No,High,No,,Non-Linear,No,2010,3.0,Low
+Success,1,B2B,18,1,7,-3.0,331.0,5.089656,0,0,No,High,Yes,Both,Non-Linear,No,2007,2.0,High
+Success,2,B2C,12,2,4,-2.0,194.0,8.5,2,4,Yes,High,No,,Linear,No,2011,2.0,Low
+Success,1,B2B,60,0,5,0.0,5.0,18,2,0,No,High,Yes,Both,Non-Linear,No,2007,2.0,Medium
+Success,1,B2B,18,0,6,3.0,109.0,12.75,3,2,Yes,High,Yes,Both,Non-Linear,No,2011,3.0,High
+Success,0,B2B,84,0,8,0.0,194.0,4,5,0,No,High,No,,Non-Linear,Yes,2000,2.0,High
+Success,1,B2B,24,0,4,0.0,61.0,4,1,0,No,High,Yes,,Non-Linear,No,2009,3.0,Medium
+Success,4,B2B,17,2,7,0.0,464.0,6.000001,1,2,Yes,Medium,Yes,Both,Non-Linear,No,2008,3.0,High
+Success,1,B2B,No Info,0,1,33.0,31.0,unknown amount,1,0,No,High,Yes,Tier_2,Non-Linear,No,2009,2.0,High
+Success,2,B2B,15,1,2,0.0,98.0,0.795,1,0,No,Medium,Yes,Both,Non-Linear,No,2012,2.0,Low
+Success,2,B2B,12,1,2,,,0.05,2,0,No,High,No,Both,Non-Linear,No,2012,4.0,High
+Success,1,B2B,23,10,7,,,9.5,1,0,No,High,Yes,Both,Linear,No,2009,2.0,Medium
+Success,0,B2B,72,0,5,1.0,170.0,11.778004,4,3,Yes,High,Yes,,Linear,No,2000,3.0,High
+Success,3,B2B,48,0,9,1.0,294.0,4.5,0,0,Yes,Medium,No,Tier_1,Non-Linear,No,2008,2.0,Low
+Success,2,B2B,60,0,5,,,0.525,0,0,No,High,Yes,Tier_1,Non-Linear,No,2007,3.0,Low
+Success,3,B2B,24,0,8,0.0,-254.0,20,1,0,No,High,No,Both,Linear,No,No Info,2.0,High
+Success,0,B2B,15,0,3,,36.0,0.5,1,0,No,High,No,,Non-Linear,No,2007,2.0,Medium
+Failed,2,B2C,30,0,3,,12.0,0.8,6,0,Yes,Low,Yes,Both,Non-Linear,No,2009,4.0,Low
+Failed,0,B2C,12,1,2,0.0,-16.0,0.018,0,0,Yes,High,Yes,No Info,Non-Linear,No,2009,3.0,Medium
+Success,2,B2B,8,3,4,-17.0,-29.0,11,0,1,Yes,High,No,Tier_1,Non-Linear,No,2010,3.0,Medium
+Failed,2,B2B,12,1,2,-100.0,0.0,0.15,1,3,Yes,High,Yes,,Non-Linear,No,2008,2.0,Medium
+Failed,1,B2B,20,3,2,-100.0,-133.0,4,0,1,No,Low,Yes,Tier_1,Non-Linear,No,2005,3.0,Medium
+Success,2,B2B,8,1,2,,,3.5,0,0,No,High,No,,Linear,Yes,2012,2.0,Medium
+Success,2,B2B,12,0,3,,63.0,0.6,0,0,No,High,Yes,,Non-Linear,No,2012,4.0,High
+Success,2,B2B,20,0,2,8.0,1193.0,1,0,0,No,Medium,Yes,Tier_1,Non-Linear,No,2012,2.0,Low
+Success,3,B2B,2,2,3,-7.0,207.0,3.2,0,1,Yes,Medium,No,,Linear,Yes,2011,3.0,Medium
+Failed,2,B2B,1,1,1,,13.0,1,3,0,No,Medium,No,Tier_1,No Info,No Info,No Info,3.0,Medium
+Success,3,B2B,1,3,6,24.0,388.0,15.5,0,2,Yes,High,No,,Non-Linear,No,2010,3.0,Medium
+Success,5,B2B,45,5,10,2.0,-96.0,3.5,0,2,Yes,High,No,,Non-Linear,No,2008,2.0,High
+Success,3,B2B,12,0,3,,,0.04,0,0,No,Medium,Yes,Tier_1,Non-Linear,No,2012,4.0,Medium
+Failed,1,B2C,1,2,3,,,No Info,0,0,No,High,Yes,,Linear,Yes,2005,3.0,Medium
+Success,4,B2B,1,0,6,9.0,32.0,1.2,9,0,No,High,Yes,Tier_1,Non-Linear,No,2012,3.0,Low
+Success,2,B2B,16,0,2,0.0,40.0,0.455,0,0,No,High,No,,Non-Linear,No,2012,2.0,Medium
+Success,4,B2C,10,8,8,3.0,603.0,8.1,0,4,Yes,Medium,Yes,Tier_2,Linear,Yes,2011,4.0,High
+Failed,2,B2C,1,0,2,,,No Info,0,0,No,High,No,Tier_1,Non-Linear,No,2007,3.0,High
+Success,2,B2B,1,0,2,14.0,65.0,0.714205,0,0,No,Medium,No,,Non-Linear,No,No Info,4.0,High
+Success,2,B2B,18,0,3,7.0,73.0,8,0,2,No,High,Yes,Tier_2,Linear,Yes,2009,4.0,High
+Success,1,B2B,11,1,10,7.0,359.0,30,0,1,No,High,Yes,Tier_1,Linear,Yes,2010,3.0,Medium
+Success,2,B2C,1,0,2,20.0,89.0,0.028,1,0,No,Low,No,Tier_1,Non-Linear,No,2012,3.0,Medium
+Success,2,B2C,20,0,1,0.0,127.0,unknown amount,0,0,No,Medium,No,Tier_2,Linear,No,2009,3.0,Medium
+Success,2,B2C,27,0,3,19.0,359.0,unknown amount,1,0,No,Medium,Yes,Tier_1,Linear,Yes,2011,3.0,Medium
+Success,5,B2B,1,0,8,40.0,511.0,3,0,0,No,Medium,Yes,Tier_2,Non-Linear,Yes,2010,4.0,Medium
+Success,2,B2B,12,0,5,,316.0,unknown amount,0,0,No Info,Medium,Yes,,Linear,Yes,2012,3.0,High
+Success,0,B2C,7,1,1,,40.0,0.11,0,0,No Info,High,No,Both,Non-Linear,Yes,2012,2.0,Medium
+Success,2,B2B,12,0,2,,89.0,0.6,0,0,No Info,High,Yes,Both,Non-Linear,No,2012,2.0,Medium
+Success,4,B2B,8,0,1,0.0,157.0,unknown amount,1,2,Yes,High,Yes,,Linear,Yes,2011,3.0,Medium
+Success,3,B2B,9,0,3,,224.0,0.45,0,0,No,Medium,Yes,,Non-Linear,No,2013,3.0,Low
+Success,2,B2B,4,0,5,,-19.0,3.6,0,0,No,High,Yes,,Linear,No,2009,4.0,Medium
+Success,3,B2B,18,3,3,25.0,138.0,2.1,0,0,No Info,High,Yes,,Non-Linear,No,2012,3.0,Medium
+Success,2,B2B,16,1,1,11.0,205.0,0.015,0,0,No,Medium,No,Both,Linear,No,2011,3.0,Medium
+Success,3,B2B,1,0,1,,35.0,No Info,0,0,No,Medium,No,,Linear,No,2010,1.0,Low
+Success,3,B2B,24,0,1,0.0,59.0,0.4,0,0,No,High,No,Both,Linear,No,2011,2.0,Low
+Success,0,B2B,1,0,4,,133.0,unknown amount,0,0,No,High,No,,Linear,No,2013,2.0,Medium
+Success,1,B2C,45,0,2,0.0,131.0,unknown amount,0,0,No Info,High,Yes,Tier_2,Non-Linear,No,2010,2.0,Medium
+Success,2,B2B,12,0,6,17.0,357.0,1.5,0,0,Yes,High,Yes,Tier_2,Non-Linear,No,2010,1.0,Low
+Success,1,B2B,1,1,9,9.0,-26.0,42,0,1,Yes,High,Yes,No Info,Non-Linear,Yes,2010,3.0,Medium
+Failed,1,B2C,8,2,1,,-3.0,1.3,0,0,Yes,High,Yes,Tier_1,Non-Linear,No,2007,2.0,Low
+Failed,3,B2C,1,0,5,,-30.0,1.75,0,0,No,High,Yes,,Non-Linear,Yes,2007,2.0,Low
+Success,2,B2C,23,1,3,0.0,-207.0,10,4,0,No,High,Yes,Tier_1,Linear,Yes,2005,3.0,Medium
+Success,1,B2C,1,0,5,-2.0,-725.0,10,1,0,No,High,No,Tier_2,Non-Linear,No,No Info,3.0,Medium
+Failed,0,B2C,1,0,2,,,0.45,1,0,No,High,Yes,Tier_2,Non-Linear,No,2007,2.0,Low
+Failed,1,B2C,1,0,3,0.0,242.0,8,0,0,No,High,No,,Non-Linear,No Info,No Info,3.0,Medium
+Success,3,B2C,9,0,9,0.0,-391.0,27.5,2,0,Yes,High,No,Tier_1,No Info,No Info,2005,3.0,Medium
+Failed,2,B2C,1,0,2,,144.0,No Info,0,0,No,High,Yes,Tier_1,Linear,Yes,No Info,2.0,Low
+Failed,3,B2C,1,0,3,,,0.015,0,0,No,Medium,No,,Non-Linear,No,2011,2.0,Low
+Failed,3,B2C,1,0,3,,-14.0,unknown amount,1,0,No Info,High,Yes,,Non-Linear,No,2009,3.0,Medium
+Failed,1,B2C,1,0,1,,-53.0,0.01,0,0,No Info,High,Yes,,Non-Linear,No,2007,2.0,Low
+Failed,4,B2C,7,0,4,0.0,-243.0,0.6,0,0,No Info,Medium,Yes,,Non-Linear,No,2011,3.0,Medium
+Failed,2,B2B,1,0,2,,,0.98,0,0,No,High,Yes,Tier_1,Non-Linear,No,No Info,3.0,Medium
+Failed,2,B2C,20,0,2,,,1.9,1,0,No,High,Yes,,Linear,Yes,2006,3.0,Medium
+Failed,1,B2C,1,0,1,,,No Info,0,0,No,High,Yes,,Linear,Yes,2009,3.0,Medium
+Failed,1,B2B,1,1,1,,0.0,unknown amount,0,0,No,High,No,,Non-Linear,No,2011,3.0,Medium
+Failed,2,B2C,6,0,2,,-3.0,No Info,0,0,No,High,Yes,,Non-Linear,No,2007,3.0,Medium
+Failed,2,B2B,1,0,2,,0.0,10,0,0,No Info,High,Yes,,Linear,Yes,No Info,3.0,Medium
+Failed,3,B2B,3,0,4,,0.0,1.5,0,0,No,High,Yes,,Non-Linear,No,2010,3.0,Medium
+Failed,0,B2C,No Info,0,1,0.0,-29.0,13.2,0,0,No Info,High,Yes,,No Info,No Info,2007,3.0,Medium
+Failed,3,B2C,6,0,3,17.0,170.0,0.9,6,0,Yes,Medium,No,Tier_1,Non-Linear,Yes,2010,3.0,Medium
+Failed,1,B2C,24,0,3,,-169.0,unknown amount,0,1,No,High,Yes,,Linear,No,2005,3.0,Medium
+Failed,1,B2C,24,0,3,,15.0,0.8,2,1,No Info,High,Yes,,Non-Linear,No,2008,3.0,Medium
+Failed,1,B2B,1,0,1,,-8.0,unknown amount,0,0,No,High,Yes,No Info,Non-Linear,No,2009,3.0,Medium
+Failed,2,B2B,12,0,2,,,0.08,0,0,No,Medium,No,,Non-Linear,No,2012,3.0,Medium
+Failed,5,B2B,1,0,5,,,unknown amount,0,0,No,High,No,,Linear,No,2008,3.0,Medium
+Failed,1,B2C,1,0,2,,-10.0,0.5,0,0,No Info,Medium,Yes,Tier_1,Non-Linear,No,2008,3.0,Low
+Failed,4,B2C,1,0,4,,,No Info,0,0,No,High,Yes,,Non-Linear,No,2011,3.0,Medium
+Failed,3,B2B,1,1,3,,,unknown amount,0,0,No,High,Yes,Tier_1,Linear,No,2009,2.0,Low
+Failed,3,B2C,1,2,2,,-84.0,No Info,0,0,No,Medium,Yes,Tier_1,Non-Linear,No,2012,3.0,Medium
+Failed,2,B2C,3,0,2,,-13.0,0.62,0,0,No,Medium,No,Tier_1,Non-Linear,No,2011,3.0,Medium
+Failed,1,B2B,1,0,1,,-4.0,unknown amount,1,0,No,High,No,,Non-Linear,No,2007,3.0,Medium
+Failed,2,B2C,15,2,2,,,0.345,1,0,No,High,No,,Non-Linear,No,2008,3.0,Medium
+Failed,2,B2C,1,0,2,,,0.02,0,0,No,High,Yes,,Non-Linear,No,2006,2.0,Low
+Failed,1,B2C,1,1,2,,15.0,No Info,0,0,No,High,Yes,Tier_1,Non-Linear,No,2008,2.0,Medium
+Failed,2,B2B,22,0,3,,-8.0,0.25,2,0,No,Medium,Yes,Tier_1,Non-Linear,No,2009,3.0,Medium
+Success,2,B2C,1,0,2,,13.0,0.25,0,0,No,Medium,Yes,Tier_1,Non-Linear,Yes,2011,4.0,High
+Success,2,B2B,12,0,2,0.0,-309.0,0.584988,0,0,No Info,Medium,Yes,,Non-Linear,No,2010,2.0,Low
+Success,3,B2C,1,0,3,33.0,101.0,0.118,0,1,No,High,Yes,Tier_1,Non-Linear,No,2011,2.0,Low
+Success,7,B2C,1,0,3,-100.0,76.0,1,0,1,No,High,Yes,,Linear,Yes,2011,2.0,Low
+Success,2,B2B,22,0,2,,-10.0,1.320384,0,0,No,High,Yes,Both,Linear,No,2010,2.0,Low
+Success,3,B2B,34,1,5,0.0,-45.0,1.4,0,0,No,Medium,Yes,Tier_2,Linear,No,2009,2.0,Low
+Success,2,B2B,12,0,3,33.0,92.0,1.53,1,0,Yes,High,Yes,Both,Linear,Yes,2010,3.0,Medium
+Success,4,B2C,6,3,8,,-375.0,1.1,0,4,No,Medium,Yes,,Linear,No,2010,3.0,Low
+Success,4,B2B,46,0,7,-100.0,13.0,0.25,0,0,Yes,High,Yes,Both,Linear,No,2007,2.0,Low
+Success,2,B2B,5,0,4,0.0,-16.0,2.669209,2,1,Yes,Medium,Yes,Both,Non-Linear,Yes,2010,3.0,Medium
+Success,3,B2B,8,0,8,9.0,272.0,4,8,0,No,High,Yes,Both,Non-Linear,No,2011,3.0,High
+Success,2,B2B,9,1,6,0.0,-173.0,4,0,3,Yes,Low,Yes,Tier_1,Non-Linear,No,2007,4.0,Medium
+Success,3,B2B,1,1,5,8.0,110.0,0.595,1,1,Yes,Medium,Yes,Both,Non-Linear,Yes,2009,3.0,Medium
+Success,1,B2B,6,0,1,-14.0,484.0,5,0,0,No,High,Yes,Both,Non-Linear,Yes,2011,2.0,Medium
+Success,1,B2B,10,6,2,50.0,-136.0,0.75,0,0,No,High,Yes,Both,Linear,No,2007,3.0,Medium
+Success,2,B2B,48,0,4,0.0,75.0,5.5,0,1,No Info,High,Yes,,Non-Linear,No,2005,3.0,Low
+Success,2,B2B,6,0,6,0.0,-14.0,7.4,0,0,No,High,Yes,,Non-Linear,Yes,2005,3.0,High
+Success,2,B2B,17,1,6,-13.0,136.0,10,0,2,Yes,High,Yes,,Non-Linear,Yes,2010,4.0,High
+Success,2,B2B,24,3,7,2.0,327.0,17.3,0,0,Yes,High,No,Tier_1,Non-Linear,Yes,2005,3.0,Medium
+Success,1,B2B,1,0,1,,215.0,No Info,0,0,No,Medium,Yes,Tier_1,Linear,Yes,2006,4.0,High
+Success,1,B2B,1,0,2,0.0,-113.0,No Info,0,0,No,High,Yes,Both,Linear,No,2007,4.0,High
+Success,3,B2B,7,1,6,,1.0,30,4,1,Yes,High,Yes,Tier_1,Linear,No,2005,4.0,Medium
+Success,3,B2C,2,1,5,,0.0,0.560001,0,1,No,High,Yes,Tier_1,Linear,No,2008,4.0,High
+Success,2,B2B,50,2,5,0.0,-5.0,3,0,1,No,High,Yes,,Non-Linear,No,2005,3.0,Medium
+Failed,2,B2B,20,1,2,0.0,2.0,2.5,0,0,Yes,High,Yes,Tier_1,Linear,Yes,2008,2.0,Medium
+Success,2,B2B,1,0,4,2.0,702.0,No Info,0,0,No,High,Yes,Tier_1,Non-Linear,No,2007,2.0,Medium
+Success,1,B2B,16,2,11,4.0,413.0,15,0,0,Yes,High,Yes,Both,Linear,No,2007,1.0,Low
+Success,3,B2B,21,1,3,-1.0,-20.0,20,0,2,Yes,High,No,Tier_2,Linear,No,2005,1.0,High
+Success,3,B2B,3,0,2,,-9.0,unknown amount,0,0,No Info,Medium,Yes,,No Info,No Info,2009,1.0,Low
+Failed,2,B2B,8,1,8,-5.0,-104.0,6,0,2,No Info,High,Yes,Both,Non-Linear,No,2009,2.0,Low
+Success,1,B2B,8,1,7,-4.0,-75.0,11,0,1,Yes,High,No,Both,No Info,No Info,2009,2.0,Low
+Success,1,B2C,4,0,1,-100.0,162.0,3,0,0,Yes,High,No,Tier_1,Non-Linear,No,2009,1.0,Medium
+Success,3,B2B,23,1,3,7.0,106.0,0.1,4,0,Yes,High,Yes,Tier_1,Linear,No,2008,1.0,Medium
+Success,2,B2B,24,0,4,0.0,66.0,5,0,1,No Info,High,Yes,Tier_2,Linear,No,2007,2.0,Medium
+Failed,1,B2B,14,0,1,-100.0,-1.0,0.03,0,1,No Info,High,Yes,No Info,Linear,No,2010,2.0,Medium
+Success,1,B2B,14,0,3,,-6.0,0.05,0,1,No Info,High,Yes,Both,Linear,No,2012,1.0,Low
+Success,2,B2B,1,0,6,,667.0,1.1,0,1,Yes,High,Yes,Tier_2,Non-Linear,No,2010,1.0,Medium
+Success,3,B2B,38,0,3,0.0,-497.0,2,0,1,No Info,High,No,Both,Non-Linear,No,2010,3.0,Medium
+Success,1,B2C,1,0,2,,-6.0,2.2,0,1,No Info,High,Yes,Both,Non-Linear,No,2006,4.0,Medium
+Failed,2,B2B,24,0,2,,-18.0,0.2,0,0,No,Medium,Yes,Tier_2,Linear,Yes,2006,2.0,Low
+Success,1,B2B,30,0,2,,-116.0,2,0,0,No,Medium,Yes,,Linear,Yes,2008,3.0,Medium
+Failed,1,B2B,1,0,1,,-6.0,No Info,0,1,No Info,Medium,Yes,,Linear,Yes,2010,2.0,Medium
+Success,4,B2B,7,0,5,,75.0,0.4,0,0,No,High,Yes,Both,Linear,Yes,2008,4.0,Medium
+Success,0,B2C,1,0,1,,64.0,No Info,0,0,No,Medium,No,Both,Linear,Yes,2013,1.0,Medium
+Failed,2,B2C,25,0,2,,-33.0,unknown amount,0,0,No Info,High,Yes,Tier_2,Linear,No,2010,2.0,Low
+Success,3,B2B,1,3,4,,96.0,unknown amount,1,0,No,Medium,Yes,,Non-Linear,No,2012,4.0,High
+Failed,1,B2C,No Info,0,1,,16.0,No Info,0,0,No Info,High,No,,Linear,Yes,2012,2.0,Low
+Success,2,B2B,1,0,2,0.0,398.0,No Info,0,0,No Info,Medium,No,Tier_1,Non-Linear,No,2012,3.0,Medium
+Success,2,B2C,1,0,2,,,No Info,0,0,No,Medium,No,Tier_1,Non-Linear,Yes,2012,3.0,Medium
+Success,3,B2B,1,0,3,0.0,481.0,No Info,0,0,No,High,No,Tier_1,Non-Linear,Yes,2010,2.0,Low
+Success,1,B2B,1,0,7,,,No Info,2,0,No,High,No,,Linear,Yes,No Info,3.0,Low
+Success,3,B2C,1,0,3,0.0,132.0,No Info,0,0,No,Medium,No,,Non-Linear,No,2012,3.0,Low
+Success,2,B2C,1,0,2,0.0,451.0,No Info,0,0,No,High,Yes,Tier_1,Non-Linear,No,2013,3.0,Medium
+Success,1,B2B,1,0,5,8.0,461.0,No Info,0,0,No,High,Yes,,Linear,Yes,2010,,No Info
+Success,2,B2B,1,0,2,0.0,278.0,No Info,0,0,No,High,Yes,,Non-Linear,No,2011,,No Info
+Success,0,B2B,No Info,1,2,,68.0,No Info,0,0,No,Medium,No,Tier_2,Non-Linear,No,2011,4.0,High
+Success,2,B2B,1,1,4,,-68.0,No Info,0,0,No,High,No,,Linear,No,2013,2.0,Medium
+Success,2,B2B,1,0,2,,115.0,No Info,0,0,No Info,High,Yes,Tier_2,Non-Linear,Yes,2012,4.0,Low
+Success,1,B2B,1,0,5,,41.0,No Info,0,1,No Info,High,No,,Linear,Yes,2013,3.0,High
+Success,4,B2C,1,0,3,0.0,398.0,No Info,0,0,No Info,Medium,No,,Non-Linear,No,2012,3.0,Medium
+Success,3,B2B,1,0,3,0.0,93.0,No Info,0,0,No,Medium,Yes,,Linear,No,2010,2.0,Medium
+Success,3,B2B,1,0,3,,-20.0,No Info,0,0,No,High,No Info,Both,Linear,Yes,2013,4.0,High
+Success,2,B2B,1,0,2,,1.0,No Info,0,0,No Info,Medium,Yes,,Non-Linear,Yes,2011,3.0,Medium
+Success,3,B2C,1,0,3,,-14.0,No Info,0,0,No Info,Medium,No,Tier_1,Linear,No,2011,2.0,Low
+Success,2,B2B,1,0,3,7.0,146.0,No Info,0,2,No,Medium,Yes,Both,Linear,Yes,2012,1.0,High
+Success,2,B2C,1,0,2,0.0,530.0,No Info,0,0,No,High,No,No Info,Non-Linear,No,2010,1.0,Medium
+Success,2,B2B,1,0,1,-7.0,297.0,No Info,0,0,No,High,No,No Info,Linear,No,2013,2.0,High
+Success,2,B2C,1,0,1,,-2.0,No Info,0,0,No Info,Low,No,,Non-Linear,No,2010,2.0,Medium
+Success,1,B2B,1,0,1,,33.0,No Info,0,0,No Info,Medium,No Info,No Info,Linear,No,2011,1.0,Low
+Failed,2,B2C,1,0,2,,144.0,No Info,0,0,No,High,Yes,Tier_1,Linear,Yes,No Info,2.0,Low
+Success,2,B2B,1,0,4,2.0,702.0,No Info,0,0,No,High,Yes,Tier_1,Non-Linear,No,2007,2.0,Medium
+Failed,1,B2B,1,0,1,,-6.0,No Info,0,1,No,Medium,Yes,,Linear,Yes,2010,2.0,Medium
+Failed,2,B2B,20,0,2,17.0,68.0,1.2,0,0,No,High,Yes,Tier_1,Linear,Yes,2012,3.0,Medium
+Success,2,B2B,12,0,3,0.0,154.0,1.7,0,0,No,High,No,,Non-Linear,No,2010,3.0,Medium
+Success,3,B2B,20,0,3,0.0,3.0,3.75,0,0,No,High,Yes,Tier_1,Non-Linear,No,2008,4.0,High
+Failed,3,B2B,12,1,5,-1.0,126.0,24,2,6,No,High,Yes,,Linear,Yes,2005,4.0,High
+Failed,1,B2B,24,0,1,,0.0,1,0,0,No,High,Yes,Tier_1,Non-Linear,No,2008,4.0,High
+Success,0,B2C,12,0,4,,60.0,6.7,0,0,No,High,Yes,Tier_1,Non-Linear,No,No Info,4.0,High
+Success,1,B2C,2,0,1,,-182.0,2,0,0,No,High,No,,Non-Linear,Yes,No Info,3.0,Medium
+Failed,2,B2C,2,0,2,,0.0,1,1,0,No,High,Yes,,Non-Linear,No,2007,3.0,Medium
+Success,0,B2B,10,0,1,-100.0,61.0,2.7,0,1,No,High,Yes,Tier_1,Linear,Yes,2010,2.0,Low
+Success,3,B2C,1,0,2,10.0,1.0,15,2,2,No,High,No,Tier_2,Linear,Yes,2005,3.0,High
+Failed,3,B2B,1,0,3,-4.0,113.0,1,0,0,No,High,No,Tier_1,Non-Linear,Yes,2011,3.0,Medium
+Failed,4,B2B,1,0,3,5.0,119.0,6.5,0,3,No,High,No,,Linear,Yes,2011,4.0,High
+Failed,4,B2B,24,0,4,4.0,169.0,2.2,0,2,No,High,Yes,Tier_1,Linear,Yes,2010,4.0,High
+Failed,6,B2B,12,7,6,4.0,516.0,8,0,2,No,High,No,Tier_1,Linear,No,2010,4.0,High
+Failed,3,B2B,12,3,10,5.0,329.0,18,0,2,No,High,Yes,Tier_1,Linear,No,2011,4.0,High
+Failed,1,B2C,No Info,2,1,14.0,81.0,7,0,0,No,High,Yes,Tier_2,Linear,Yes,No Info,4.0,High
+Failed,4,B2B,40,2,10,2.0,263.0,30,0,0,No,Medium,Yes,Tier_1,Linear,No,2006,4.0,High
+Failed,2,B2B,12,0,4,4.0,367.0,11,0,0,No,Medium,No,Tier_1,Non-Linear,No,2010,4.0,High
+Failed,2,B2B,18,2,4,3.0,357.0,11,0,0,No,High,No,Tier_2,Non-Linear,No,2009,4.0,High
+Failed,1,B2B,No Info,1,2,5.0,75.0,2,0,0,No,High,Yes,Tier_1,Linear,No,No Info,4.0,High
+Failed,2,B2B,No Info,2,4,,241.0,5.2,0,1,No,High,Yes,,Linear,No,No Info,4.0,High
+Failed,2,B2B,24,1,4,6.0,-19.0,4.7,1,0,No,High,Yes,Tier_2,Linear,No,2008,4.0,High
+Failed,3,B2C,No Info,0,3,,-37.0,No Info,0,0,No,No Info,No,No Info,Non-Linear,No,2011,,No Info
+Failed,1,B2C,No Info,0,2,0.0,-62.0,No Info,0,0,No,No Info,No,No Info,Non-Linear,No,2010,,No Info
+Failed,0,B2B,No Info,1,1,,,No Info,0,0,No,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,1,B2B,No Info,0,1,,0.0,No Info,0,0,No,No Info,Yes,No Info,Non-Linear,No,2006,,No Info
+Failed,2,B2B,No Info,1,2,,-4.0,No Info,0,0,No,No Info,Yes,No Info,Non-Linear,No,2009,,No Info
+Failed,2,B2B,No Info,1,2,,16.0,No Info,0,0,No,No Info,Yes,No Info,Non-Linear,No,2008,,No Info
+Failed,2,B2B,No Info,0,3,,22.0,No Info,0,0,No,No Info,Yes,No Info,Non-Linear,No,2013,,No Info
+Failed,1,B2B,No Info,0,2,,0.0,No Info,0,0,No,No Info,Yes,No Info,Non-Linear,No,2007,,No Info
+Failed,3,B2B,No Info,0,3,,-8.0,No Info,0,0,No,No Info,Yes,No Info,Non-Linear,No,No Info,,No Info
+Failed,0,B2C,No Info,0,2,,,No Info,0,0,No,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,1,B2C,No Info,0,2,0.0,-69.0,No Info,0,0,No,No Info,Yes,No Info,Non-Linear,No,2009,,No Info
+Failed,2,B2C,No Info,3,3,,46.0,No Info,0,3,No,No Info,Yes,No Info,Linear,Yes,2005,,No Info
+Failed,0,B2B,No Info,0,3,,,No Info,0,0,No,No Info,Yes,No Info,Non-Linear,No,No Info,,No Info
+Failed,3,B2C,No Info,0,3,,,No Info,0,0,No,No Info,Yes,No Info,Linear,Yes,No Info,,No Info
+Failed,1,B2C,No Info,0,1,,,No Info,0,0,No,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,1,B2B,No Info,0,1,,,No Info,0,0,No,No Info,Yes,No Info,Non-Linear,No,No Info,,No Info
+Failed,1,B2C,No Info,0,1,,,No Info,1,0,No,No Info,Yes,No Info,Non-Linear,No,No Info,,No Info
+Failed,1,B2C,No Info,0,1,0.0,-7.0,No Info,2,0,No,No Info,Yes,No Info,Linear,Yes,No Info,,No Info
+Failed,1,B2C,No Info,0,1,0.0,-12.0,No Info,4,0,No,No Info,Yes,No Info,Linear,Yes,2008,,No Info
+Failed,3,B2C,No Info,1,4,,-58.0,No Info,1,0,No,No Info,Yes,No Info,Linear,Yes,No Info,,No Info
+Failed,2,B2C,No Info,0,2,,,No Info,0,0,No,No Info,Yes,No Info,Non-Linear,No,No Info,,No Info
+Failed,1,B2B,No Info,0,1,,,No Info,0,0,No,No Info,Yes,No Info,Non-Linear,No,No Info,,No Info
+Failed,2,B2B,No Info,0,1,,-4.0,No Info,0,0,No,No Info,No,No Info,Non-Linear,No,2011,,No Info
+Failed,3,B2B,No Info,0,9,-4.0,-53.0,No Info,No Info,No Info,No Info,No Info,Yes,No Info,Non-Linear,No Info,2008,,No Info
+Failed,0,B2B,No Info,0,5,-11.0,-283.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,Non-Linear,No Info,2007,,No Info
+Failed,1,B2B,No Info,10,7,0.0,-16.0,No Info,No Info,No Info,No Info,No Info,No,No Info,No Info,No Info,2003,,No Info
+Failed,0,B2B,No Info,0,6,-5.0,-369.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,Non-Linear,No Info,2005,,No Info
+Failed,1,B2C,No Info,0,4,0.0,0.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,Non-Linear,No Info,2007,,No Info
+Failed,0,B2B,No Info,0,4,1.0,224.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,Non-Linear,No Info,1997,,No Info
+Failed,0,B2C,No Info,0,4,0.0,-91.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,2006,,No Info
+Failed,2,B2B,No Info,0,3,,,No Info,No Info,No Info,No Info,No Info,Yes,No Info,Non-Linear,No Info,No Info,,No Info
+Failed,2,No Info,No Info,0,6,0.0,1.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,,No Info
+Failed,0,B2B,No Info,0,1,,-3.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,,No Info
+Failed,0,B2C,No Info,0,1,0.0,-89.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,2008,,No Info
+Failed,1,No Info,No Info,0,1,0.0,-228.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,2011,,No Info
+Failed,0,B2C,No Info,0,1,,-2.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,2007,,No Info
+Failed,1,B2C,No Info,0,4,,,No Info,No Info,0,No Info,No Info,Yes,No Info,Non-Linear,No,No Info,,No Info
+Failed,0,B2C,No Info,0,1,,7.0,No Info,No Info,0,No,No Info,No Info,No Info,Non-Linear,No,No Info,,No Info
+Failed,3,B2C,No Info,1,5,,-61.0,No Info,0,0,Yes,No Info,Yes,No Info,Non-Linear,No,No Info,,No Info
+Failed,1,B2C,No Info,0,5,0.0,-10.0,No Info,0,2,Yes,No Info,Yes,No Info,Non-Linear,No,2005,,No Info
+Failed,1,B2C,No Info,0,1,,-2.0,No Info,No Info,0,No,No Info,No,No Info,Linear,Yes,No Info,,No Info
+Failed,1,B2C,No Info,0,1,,,No Info,No Info,0,No,No Info,Yes,No Info,Non-Linear,No,No Info,,No Info
+Failed,2,B2B,No Info,1,3,0.0,-13.0,No Info,0,0,Yes,No Info,Yes,No Info,Non-Linear,No,No Info,,No Info
+Failed,1,B2C,No Info,1,2,-100.0,110.0,No Info,No Info,0,No,No Info,No,No Info,Non-Linear,No,2009,,No Info
+Failed,2,B2C,No Info,2,3,0.0,42.0,No Info,0,3,Yes,No Info,Yes,No Info,Linear,Yes,2005,,No Info
+Failed,3,B2C,No Info,0,3,,,No Info,0,0,Yes,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,1,B2C,No Info,0,2,-100.0,30.0,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,2010,,No Info
+Failed,2,B2B,No Info,1,2,,,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,1,B2B,No Info,0,2,,,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,1,B2C,No Info,0,2,33.0,-62.0,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,2008,,No Info
+Failed,2,B2C,No Info,0,2,0.0,-72.0,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,Yes,2011,,No Info
+Failed,2,B2B,No Info,0,2,,0.0,No Info,No Info,No Info,No Info,No Info,Yes,No Info,Non-Linear,No,2011,,No Info
+Failed,1,B2B,No Info,0,3,,,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,2,B2C,No Info,3,2,,-24.0,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,Yes,2009,,No Info
+Failed,1,B2B,No Info,0,1,,,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,0,B2B,No Info,0,7,,,No Info,No Info,No Info,No Info,No Info,No,No Info,Linear,No,No Info,,No Info
+Failed,0,B2C,No Info,2,2,,-56.0,No Info,No Info,No Info,No Info,No Info,Yes,No Info,Non-Linear,No,No Info,,No Info
+Failed,1,B2C,No Info,0,2,,,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,Yes,No Info,,No Info
+Failed,0,B2B,No Info,1,5,4.0,31.0,No Info,No Info,No Info,No Info,No Info,Yes,No Info,Linear,Yes,2005,,No Info
+Failed,3,B2C,No Info,0,3,,,No Info,No Info,No Info,No Info,No Info,Yes,No Info,Non-Linear,Yes,No Info,,No Info
+Failed,0,B2C,No Info,1,24,,,No Info,No Info,No Info,No Info,No Info,Yes,No Info,Linear,Yes,No Info,,No Info
+Failed,1,B2C,No Info,0,2,,0.0,No Info,No Info,No Info,No Info,No Info,Yes,No Info,Non-Linear,No,2006,,No Info
+Failed,0,B2C,No Info,3,5,,,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,0,B2C,No Info,0,3,,,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,0,B2B,No Info,1,3,,-24.0,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,2,B2B,No Info,0,2,,,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,0,No Info,No Info,0,1,0.0,1.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,No Info,,No Info
+Failed,1,B2B,No Info,0,1,,0.0,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,2009,,No Info
+Failed,0,B2C,No Info,1,1,,-1.0,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,2010,,No Info
+Failed,2,B2C,No Info,0,2,-100.0,4.0,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,2010,,No Info
+Failed,2,B2C,No Info,0,3,-100.0,18.0,No Info,No Info,No Info,No Info,No Info,No,No Info,Non-Linear,No,2007,,No Info
+Failed,1,B2C,No Info,0,2,,,No Info,No Info,0,No,No Info,No,No Info,Non-Linear,No,No Info,,No Info
+Failed,0,B2C,No Info,1,2,,-30.0,No Info,1,0,No,No Info,No,No Info,Non-Linear,Yes,No Info,,No Info
+Failed,0,B2C,No Info,0,2,,0.0,No Info,1,0,No,No Info,Yes,No Info,No Info,No Info,2007,,No Info
+Failed,0,B2C,No Info,0,1,,0.0,No Info,2,0,No,No Info,No Info,No Info,Linear,Yes,2006,,No Info
+Failed,0,B2B,No Info,0,1,,-5.0,No Info,0,0,No,No Info,No Info,No Info,Non-Linear,No,2011,,No Info
+Failed,0,B2C,No Info,0,1,,,No Info,4,0,No,No Info,No Info,No Info,Linear,Yes,No Info,,No Info
+Failed,2,B2B,No Info,0,1,,0.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,Non-Linear,No,2010,,No Info
+Failed,3,B2C,No Info,2,1,,0.0,No Info,No Info,No Info,No Info,No Info,No Info,No Info,Linear,No,2009,,No Info
+Failed,3,B2C,No Info,0,1,,11.0,No Info,0,1,No Info,No Info,No Info,No Info,Non-Linear,No,2013,,No Info
